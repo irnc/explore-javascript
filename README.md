@@ -1,5 +1,9 @@
 # explore-javascript
 
+Explore JavaScript, a programming language for the Web.
+
+_For a bigger picture [explore web development](https://github.com/irnc/explore-web-dev)._
+
 ## Tools
 
 * https://github.com/irnc/javascript-tools
@@ -18,6 +22,7 @@
 
 ## Language Features
 
+* ECMAScript
 * https://github.com/irnc/promise
 * https://github.com/irnc/javascript-events
 * https://github.com/irnc/template-literals
