@@ -25,10 +25,12 @@ _For a bigger picture [explore web development](https://github.com/irnc/explore-
 * ECMAScript
 * https://github.com/irnc/promise
 * https://github.com/irnc/javascript-events
-* https://github.com/irnc/template-literals
 * https://github.com/irnc/ternary-operator
 * [spread operator](user-spread-operator.md)
 * [arrow functions](use-arrow-functions.md)
+* literals
+  * https://github.com/irnc/template-literals
+  * [numeric literals](use-numeric-literals.md)
 
 ## Quirks
 
