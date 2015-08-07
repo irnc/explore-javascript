@@ -28,6 +28,7 @@ _For a bigger picture [explore web development](https://github.com/irnc/explore-
 * https://github.com/irnc/template-literals
 * https://github.com/irnc/ternary-operator
 * [spread operator](user-spread-operator.md)
+* [arrow functions](use-arrow-functions.md)
 
 ## Quirks
 
