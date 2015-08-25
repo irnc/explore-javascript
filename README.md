@@ -31,6 +31,10 @@ _For a bigger picture [explore web development](https://github.com/irnc/explore-
 * literals
   * https://github.com/irnc/template-literals
   * [numeric literals](use-numeric-literals.md)
+* Declarations and the Variable Statement
+  * http://www.ecma-international.org/ecma-262/6.0/index.html#sec-declarations-and-the-variable-statement
+  * https://twitter.com/wycats/status/604491094425018369
+  * https://twitter.com/wycats/status/604503020206850049
 
 ## Quirks
 
