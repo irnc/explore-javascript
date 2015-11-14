@@ -1,4 +1,6 @@
 - http://unscriptable.com/2009/03/20/debouncing-javascript-methods/ (March 20, 2009)
 - http://benalman.com/projects/jquery-throttle-debounce-plugin/ (March 6, 2010)
+- https://github.com/jashkenas/underscore/issues/66 (November 30, 2010)
 - http://drupalmotion.com/article/debounce-and-throttle-visual-explanation
+- https://lodash.com/docs#debounce
 - http://nmotw.in/debounce/
