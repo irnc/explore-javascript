@@ -15,10 +15,10 @@ _For a bigger picture [explore web development](https://github.com/irnc/explore-
 
 ## Practices
 
+* https://github.com/irnc/functional-javascript
 * https://github.com/irnc/web-dev-practices
 * https://github.com/irnc/javascript-style-guides
 * https://github.com/irnc/javascript-practices
-* 
 
 ## Language Features
 
